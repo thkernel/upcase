@@ -41,6 +41,16 @@ if ( ! function_exists( 'upcase_setup' ) ) :
 		 * @link https://developer.wordpress.org/themes/functionality/featured-images-post-thumbnails/
 		 */
 		add_theme_support( 'post-thumbnails' );
+		// Add featured image sizes
+		add_image_size( 'featured-large', 780, 440, true ); // width, height, crop
+		add_image_size( 'featured-small', 380, 215, true );
+		add_image_size( 'thumbnail', 136, 92, true );
+
+
+		// Add other useful image sizes for use through Add Media modal
+		add_image_size( 'medium-width', 480 );
+		add_image_size( 'medium-height', 9999, 480 );
+		add_image_size( 'medium-something', 480, 480 );
 
 		// This theme uses wp_nav_menu() in one location.
 		register_nav_menus( array(

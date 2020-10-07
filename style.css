@@ -1271,8 +1271,139 @@ margin-bottom: 0.8em;
 	margin-left: auto;
 }
 .page .entry-title{
-display:none;
+/*display:none;*/
 }
 .customers-logos{
 	margin-bottom: 60px;
+}
+
+
+.mnmd-layout-split:first-child {
+    margin-top: -10px;
+}
+.mnmd-block:last-child {
+    margin-bottom: 0;
+}
+@media (min-width: 1200px)
+.mnmd-block--fullwidth {
+    margin-bottom: 60px;
+}
+.mnmd-block {
+    position: relative;
+    margin-bottom: 40px;
+}
+.img-short {
+    overflow: hidden;
+    position: relative;
+}
+.mnmd-block:last-child {
+    margin-bottom: 0;
+}
+.mnmd-block {
+    position: relative;
+    margin-bottom: 40px;
+}
+.block-heading {
+    font-family: "Rubik", Helvetica, Arial, sans-serif;
+    display: -webkit-box;
+    display: -moz-box;
+    display: box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    box-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    -o-align-items: center;
+    align-items: center;
+    -ms-flex-align: center;
+    -webkit-box-pack: justify;
+    -moz-box-pack: justify;
+    box-pack: justify;
+    -webkit-justify-content: space-between;
+    -moz-justify-content: space-between;
+    -ms-justify-content: space-between;
+    -o-justify-content: space-between;
+    justify-content: space-between;
+    -ms-flex-pack: justify;
+    width: 100%;
+    position: relative;
+    margin-bottom: 1.4rem;
+    font-size: 1rem;
+    line-height: 1.2;
+}
+
+
+
+.post__title.typescale-2, .entry-title.typescale-2 {
+    font-weight: 500;
+}
+.post__title:first-child, .entry-title:first-child {
+    margin-top: 0;
+}
+h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child, .h1:first-child, .h2:first-child, .h3:first-child, .h4:first-child, .h5:first-child, .h6:first-child {
+    margin-top: 0;
+}
+.post__title, .entry-title {
+    margin: 0.25em 0 0.4em !important;
+    font-family: "Rubik", Helvetica, Arial, sans-serif;
+    color: #000000 !important;
+}
+@media (min-width: 992px)
+.typescale-2 {
+    font-size: 1.313rem;
+    line-height: 1.3;
+}
+@media (min-width: 768px)
+.typescale-2 {
+    font-size: 1.00rem;
+    line-height: 1.4;
+}
+.typescale-2 {
+    font-size: 1.106rem;
+    line-height: 1.4;
+}
+
+.h3, h3 {
+    font-size: 1.75rem !important;
+}
+.overlay-item--top-left {
+    position: absolute;
+    top: 12px;
+    right: auto;
+    bottom: auto;
+    left: 12px;
+}
+.category {
+    padding: 2px 8px 8px 0px;
+    width: 100%;
+    text-align: left;
+}
+
+#categ a:visited {
+    color: #ffffff;
+}
+#categ a:link {
+    color: #ffffff;
+    display: inline;
+}
+.post__thumb a, .entry-thumb a {
+    display: block;
+}
+.category a {
+    padding: 2px 4px;
+    color: #ffffff;
+    background: #000000;
+    border-radius: 0px;
+    font-weight: 600;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+.post__title a, .entry-title a {
+    color: inherit;
+    text-decoration: none !important;
 }

@@ -35,7 +35,7 @@ that build and provide custom solutions for all size of companies. We see techno
 				<a class="btn btn-primary btn-lg mb-5 mb-lg-2 lift" href="#">Start a project with us<i class="fa fa-arrow-right d-none d-md-inline ml-3"></i> </a>
 			</div>
 			<div class="col-lg-6 img-fluid d-none d-lg-block">
-				<img src="wp-content/themes/upcase/images/tipe_illustration_-_section_1_2x.png" />
+				<img src="wp-content/themes/upcase/images/hero1.png" />
 			</div>
 		</div>
 	</div>
