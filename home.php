@@ -32,7 +32,7 @@ get_header();
 					We are a software development and consulting company,
 that build and provide custom solutions for all size of companies. We see technology as a tool to create amazing things.			
 				</p>
-				<a class="btn btn-primary btn-lg mb-5 mb-lg-2 lift" href="#">Start a project with us<i class="fa fa-arrow-right d-none d-md-inline ml-3"></i> </a>
+				<a class="btn btn-primary btn-lg mb-5 mb-lg-2 lift" href="<?php echo esc_url( home_url( '/' ) )."contact/"; ?>">Let's talk<i class="fa fa-arrow-right d-none d-md-inline ml-3"></i> </a>
 			</div>
 			<div class="col-lg-6 img-fluid d-none d-lg-block">
 				<img src="wp-content/themes/upcase/images/hero2.png" />
@@ -47,7 +47,7 @@ that build and provide custom solutions for all size of companies. We see techno
 <section class="our-services">
 	<div class="services-section-title text-center">
 		<p>
-			<h2>We provide prowerful solutions for your company.</h2>
+			<h2 class="--highlight">We provide prowerful solutions for your company.</h2>
 		</p>
 	</div>
 	<div class="container">
@@ -152,7 +152,7 @@ that build and provide custom solutions for all size of companies. We see techno
 <section class="how-we-works">
 	<div class="customers-section-title text-center">
 		<p>
-			<h2>How we work</h2>
+			<h2 class="--highlight">How we work</h2>
 		</p>
 	</div>
 	<div class="container">
@@ -284,7 +284,7 @@ that build and provide custom solutions for all size of companies. We see techno
 <section class="our-cutomers">
 	<div class="customers-section-title text-center">
 		<p>
-			<h2>These companies trust us.</h2>
+			<h2 class="--highlight">These companies trust us.</h2>
 		</p>
 	</div>
 	<div class="container">
