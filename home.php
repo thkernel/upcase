@@ -144,82 +144,140 @@ that build and provide custom solutions for all size of companies. We see techno
 			</div>	
 		</div>
 
-<!--
-		<div class="row">
-			<div class="col-md-3">
 
-				<div class="service-item">
-
-					<div class="service-icon">
-					</div>
-
-					<div class="service-title">
-						<h5>Research and optimization</h5>
-					</div>
-
-					<div class="service-short-describe">
-					</div>
-
-				</div>
-
-			</div>
-
-			<div class="col-md-3">
-					
-				<div class="service-item">
-
-					<div class="service-icon">
-					</div>
-
-					<div class="service-title">
-						<h5>Strategy</h5>
-					</div>
-
-					<div class="service-short-describe">
-					</div>
-				</div>
-
-			</div>
-
-			<div class="col-md-3">
-					
-				<div class="service-item">
-					<div class="service-icon">
-					</div>
-
-					<div class="service-title">
-						<h5>System administration</h5>
-					</div>
-
-					<div class="service-short-describe">
-					</div>
-
-				</div>
-
-			</div>
-
-			<div class="col-md-3">
-					
-				<div class="service-item">
-					<div class="service-icon">
-					</div>
-
-					<div class="service-title">
-						<h5>Training</h5>
-					</div>
-
-					<div class="service-short-describe">
-					</div>
-
-				</div>
-
-				</div>
-			</div>	
-		</div>
-	-->
 	</div>
 </section>
 
+<!-- How we work -->
+<section class="how-we-works">
+	<div class="customers-section-title text-center">
+		<p>
+			<h2>How we work</h2>
+		</p>
+	</div>
+	<div class="container">
+
+		<div class="row">
+			<div class="col-md-4">
+				<div class="service-item">
+
+					<div class="service-icon">
+						<i class="fa fa-users" aria-hidden="true"></i>
+
+					</div>
+
+					<div class="service-title">
+						<h5>Dedicated teams</h5>
+					</div>
+
+					<div class="service-short-describe">
+						<p>
+							On every project, we assemble a dedicated team of experts, who focus exclusively on your project, creating a technology solution that meets your needs and aims.
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="service-item">
+
+					<div class="service-icon">
+						<i class="fa fa-user-secret" aria-hidden="true"></i>
+					</div>
+
+					<div class="service-title">
+						<h5>Client control</h5>
+					</div>
+
+					<div class="service-short-describe">
+						<p>
+							For the duration of every project, you become part of our team, and we give you the ability to guide our developers’ work in real time
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="service-item">
+
+					<div class="service-icon">
+<i class="fa fa-undo" aria-hidden="true"></i>
+					</div>
+
+					<div class="service-title">
+						<h5>Software development process</h5>
+					</div>
+
+					<div class="service-short-describe">
+						<p>
+							Our approach ensures a well organized development process, effective quality management, and proactive, clear communication with clients and stakeholders.
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="service-item">
+
+					<div class="service-icon">
+						<i class="fa fa-check-square-o" aria-hidden="true"></i>
+					</div>
+
+					<div class="service-title">
+						<h5>Software testing</h5>
+					</div>
+
+					<div class="service-short-describe">
+						<p>
+							We use high-quality and effective automated testing methods – known as Test-driven development (TDD) – to guarantee that your application behaves as intended and ensure that making changes doesn’t cause any unexpected side effects.
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="service-item">
+
+					<div class="service-icon">
+						<i class="fa fa-code-fork" aria-hidden="true"></i>
+
+					</div>
+
+					<div class="service-title">
+						<h5>Flexibility</h5>
+					</div>
+
+					<div class="service-short-describe">
+						<p>
+							We follow agile development methodology and we are open to changes and new ideas from your side at any stage of the development.
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="service-item">
+
+					<div class="service-icon">
+						<i class="fa fa-gamepad" aria-hidden="true"></i>
+					</div>
+
+					<div class="service-title">
+						<h5>Dealing with challenges</h5>
+					</div>
+
+					<div class="service-short-describe">
+						<p>
+							Our deep professional knowledge and solid expertise allow us to manage complicated projects that require innovative technical solutions.
+						</p>
+					</div>
+				</div>
+			</div>
+
+
+		</div>
+	</div>
+</section>
 
 
 <!-- Our services -->
@@ -239,6 +297,10 @@ that build and provide custom solutions for all size of companies. We see techno
 			</div>
 			</div>
 		</div>
+	</div>
+</section>
+
+
 
 </main>
 <?php
