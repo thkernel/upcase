@@ -26,7 +26,7 @@ get_header();
 			<div class="col-lg-6">
 				<h1 class="display-4 text-bold">
 				<!-- Dynamisez votre communication grâce à notre API SMS. -->
-				Powerful solutions for your company.
+				Let’s make your projects and ideas a success.
 				</h1>
 				<p class="text-gray-soft text-regular">
 					We are a software development and consulting company,
@@ -35,7 +35,7 @@ that build and provide custom solutions for all size of companies. We see techno
 				<a class="btn btn-primary btn-lg mb-5 mb-lg-2 lift" href="#">Start a project with us<i class="fa fa-arrow-right d-none d-md-inline ml-3"></i> </a>
 			</div>
 			<div class="col-lg-6 img-fluid d-none d-lg-block">
-				<img src="wp-content/themes/upcase/images/hero1.png" />
+				<img src="wp-content/themes/upcase/images/hero2.png" />
 			</div>
 		</div>
 	</div>
